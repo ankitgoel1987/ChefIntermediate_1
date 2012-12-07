@@ -1,0 +1,30 @@
+{
+  "license": "All rights reserved",
+  "groupings": {
+  },
+  "replacing": {
+  },
+  "dependencies": {
+  },
+  "description": "Installs/Configures intermediate1",
+  "name": "intermediate1",
+  "version": "0.0.1",
+  "conflicting": {
+  },
+  "suggestions": {
+  },
+  "recommendations": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "recipes": {
+    "intermediate1::default": "Prints hello world output"
+  },
+  "providing": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "attributes": {
+  },
+  "platforms": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME"
+}
